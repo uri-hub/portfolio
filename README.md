@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Bem vindo ao meu projeto de portfólio.
 
 ![image](https://github.com/uri-hub/portfolio/blob/main/assets/home-portfolio.jpg)![image](https://github.com/uri-hub/portfolio/blob/main/assets/sobre-portfolio.jpg)
 
