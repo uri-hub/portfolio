@@ -4,7 +4,7 @@
 
 ## 🔨 Funcionalidades do projeto
 
-Este projeto visa criar uma página web para exibição de meu portfólio, consistindo em duas páginas (home, e sobre mim) acessíveis através de seu menu de navegação, permitindo o acesso a minhas redes através de botões de ancoragem.
+Este projeto visa criar uma página web para exibição de meu portfólio, consistindo em duas páginas (home e sobre mim) acessíveis através de seu menu de navegação, permitindo o acesso a minhas redes através de botões de ancoragem.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -32,4 +32,4 @@ Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
 ## 💬 Minhas redes
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uprieto@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-barbosa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uprieto@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-barbosa)
