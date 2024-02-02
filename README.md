@@ -1,4 +1,4 @@
-# Bem vindo ao meu projeto de portfólio.
+# Bem vindo ao meu projeto de portfólio
 
 ![image](https://github.com/uri-hub/portfolio/blob/main/assets/home-portfolio.jpg)![image](https://github.com/uri-hub/portfolio/blob/main/assets/sobre-portfolio.jpg)
 
@@ -17,6 +17,7 @@ Este projeto visa criar uma página web para exibição de meu portfólio, consi
 `Padrões BEM`
 
 ## 📁 Acesso ao portfólio
+
 [Clique aqui para visualizar o portfólio](https://portfolio-mu-seven-44.vercel.app/).
 
 Neste repositório você tem acesso a todo o material referente ao projeto.
@@ -25,8 +26,10 @@ Neste repositório você tem acesso a todo o material referente ao projeto.
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
-## 🤓	 Desenvolvido por
+## 🤓 Desenvolvido por
 
 ### Uriel Barbosa
 
-### Linkedin: https://www.linkedin.com/in/uriel-barbosa/
+## 💬 Minhas redes
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uprieto@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/uriel-barbosa)
